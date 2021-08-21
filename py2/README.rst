@@ -30,7 +30,7 @@ Installation
 
 ::
 
-    pip install blee
+   pip install blee
 
 See Also
 ========
